@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
 	  will it work this time?
-	it was a pain to get it working
+	Now travis does not wanna work
         </p>
         <a
           className="App-link"
